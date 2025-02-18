@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm a cybersecurity professional with a strong foundation in threat intelligence, security operations, and vulnerability management. With a background in marketing and project management, I bring a unique mix of technical expertise, strategic thinking, and problem-solving skills to cybersecurity
+## 👨‍💻 Cybersecurity Professional | Threat Intelligence | Security Operations | Vulnerability Management  
+
+🚀 **From Marketing to Malware:** Once upon a time, I was crafting marketing strategies and managing corporate projects, but I decided firewalls were more exciting than funnels. Now, instead of debugging ad campaigns, I’m hunting threats, locking down vulnerabilities, and fortifying systems.  
+
+🛡️ **Intensive Cybersecurity Training Graduate:** Completed a **15-week advanced cybersecurity training program at Per Scholas**, where I gained experience in threat intelligence, security operations, centralized logging, and system hardening using tools like **Splunk, Wireshark, and Greenbone**.  
+
+🔍 **Cybersecurity Support Analyst Intern | Log(N) Pacific:** Currently interning as a **Cybersecurity Support Analyst**, focusing on **vulnerability management, threat hunting, and security operations**. I work on **STIG automations for vulnerability management**, build **threat hunting tabletop exercises**, and support **SecOps initiatives** to strengthen security defenses. 
+
+💡 **Passion Meets Persistence:** Cybersecurity isn’t just a career shift—it’s an obsession. I thrive on solving complex security challenges, continuously upskilling, and staying ahead of the latest threats.  
+
+🏢 **Seeking the Right Fit:** Looking for a company that values curiosity, technical growth, and strategic problem-solving—one that’s ready to **invest in my skills and potential** while I help fortify its security posture.  
+
+📡 **Let’s Connect:** If you're looking for a cybersecurity professional who blends **technical expertise, strategic thinking, and a passion for security**, let’s talk!  
+
+
+## **Check out my resume here!** 👉 [ Resume.pdf](https://github.com/user-attachments/files/18849140/Touba.Hamdi.pdf) 🔥🔍
+
 
 
 ## 🌐 Socials:
