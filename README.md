@@ -21,7 +21,7 @@
 - [Threat hunting - RCE-Detection-Report](https://github.com/ToubaHam/RCE-Detection-Report)
 - [Threat hunting - Exposed to the Wild: Detecting Internet-Facing Devices](https://github.com/ToubaHam/-Exposed-Vulnerable-Detecting-Internet-Facing-Devices)
 - [Threat hunting - Internal Network Port Scanning Analysis and Response Report](https://github.com/ToubaHam/-Internal-Network-Port-Scanning-Analysis-and-Response-Report)
-- [Threat hunting - Suspected Data Exfiltration from PIPd Employee](https://github.com/ToubaHam/Suspected-Data-Exfiltration-from-PIPd-Employee))
+- [Threat hunting - Suspected Data Exfiltration from PIPd Employee](https://github.com/ToubaHam/Suspected-Data-Exfiltration-from-PIPd-Employee)
 - [Threat huntting - Unauthorized TOR Usage](https://github.com/ToubaHam/Tor-Browers-Usage/tree/main)
 - [Incident Response - New Zero Day Announced on News PwnCrypt ransomware](https://github.com/ToubaHam/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-)
 - [Incident Response - Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/ToubaHam/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)
