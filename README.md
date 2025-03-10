@@ -3,7 +3,7 @@
 
 🚀 **From Marketing to Malware:** Once upon a time, I was crafting marketing strategies and managing corporate projects, but I decided firewalls were more exciting than funnels. Now, instead of debugging ad campaigns, I’m hunting threats, locking down vulnerabilities, and fortifying systems.  
 
-## **Check out my resume here!** 👉 [Resume.pdf](https://github.com/user-attachments/files/19164776/Touba.Hamdi.Resume.pdf) 🔥🔍
+## **Check out my resume here!** 👉 [Resume.pdf](https://github.com/user-attachments/files/19164776/Touba.Hamdi.Resume.pdf) 
 
 
 ## 🌐 Socials:
