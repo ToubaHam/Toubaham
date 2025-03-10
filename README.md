@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 Cybersecurity Professional | Threat Intelligence | Security Operations | Vulnerability Management  
+##  Cybersecurity Professional | Threat Intelligence | Security Operations | Vulnerability Management  
 
 🚀 **From Marketing to Malware:** Once upon a time, I was crafting marketing strategies and managing corporate projects, but I decided firewalls were more exciting than funnels. Now, instead of debugging ad campaigns, I’m hunting threats, locking down vulnerabilities, and fortifying systems.  
 
